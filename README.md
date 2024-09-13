@@ -13,7 +13,7 @@
   </a>
   <br/>
   <hr/>
-  <a href="ritwickdey.LiveServer-5.7.9.vsix" download="ritwickdey.LiveServer-5.7.9.vsix">
+  <a href="https://github.com/kashyapprajapat/MsuHelper-/raw/main/ritwickdey.LiveServer-5.7.9.vsix" download="ritwickdey.LiveServer-5.7.9.vsix">
     <button>LiveServer</button>
   </a>
 </p>
