@@ -3,17 +3,15 @@
 ### Increase Productivity ☕
 
 <p align="center">
-  <a href="https://github.com/kashyapprajapat/MsuHelper-/raw/main/msuextension.zip" download="msuextension.zip">
+  <a href="https://github.com/kashyapprajapat/MsuHelper-/raw/main/allvsextension.zip" download="msuextension.zip">
     <button>Download AllHelper</button>
   </a>
   <br/>
-  <hr/>
-  <a href="https://github.com/kashyapprajapat/MsuHelper-/raw/main/wayou.vscode-todo-highlight-1.0.5.vsix" download="wayou.vscode-todo-highlight-1.0.5.vsix">
-    <button>Todo</button>
-  </a>
-  <br/>
-  <hr/>
-  <a href="https://github.com/kashyapprajapat/MsuHelper-/raw/main/ritwickdey.LiveServer-5.7.9.vsix" download="ritwickdey.LiveServer-5.7.9.vsix">
-    <button>LiveServer</button>
-  </a>
+  <h4>Extension Name:</h4>
+  <h6>c++</h6>
+  <h6>.run</h6>
+  <h6>chai teham</h6>
+  <h6>material icon</h6>
+  <h6>preetier</h6>
+
 </p>
