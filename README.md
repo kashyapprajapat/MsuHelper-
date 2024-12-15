@@ -1,5 +1,18 @@
 # 🎓Helper 
 
+## Sem 1 All Material
+&nbsp;
+
+<h4>Link for 2024 Material -- 
+
+https://drive.google.com/file/d/12AYM8IlDktwSZlHZ51Bmu76Qmqzc_ciD/view?usp=drive_link</h4>
+<h4>Link for 2023 Material -- 
+
+https://drive.google.com/file/d/17VTTa5oa5eZT9c52l78fkUjdJQa83sDj/view?usp=drive_link
+</h4>
+
+<hr/>
+
 ### Increase Productivity ☕
 
 <p align="center">
@@ -43,7 +56,12 @@
 
 
 <hr>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 <br/>
+&nbsp;
 
 <h1>Now Sem 2 Start☕</h1>
 
