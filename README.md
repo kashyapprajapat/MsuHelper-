@@ -56,4 +56,4 @@
 
 <h3>Linux Material 📚</h3>
 
-- [Download Linux Material](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1734236511/Linux-LANP/cfnhy13aulvqdhisfxpr.zip)
+- [Download Linux Material](https://res-console.cloudinary.com/dpf5bkafv/media_explorer_thumbnails/b2f383278471eedcf682781ee4b8a864/download)
