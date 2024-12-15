@@ -41,5 +41,18 @@
 
 </p>
 
+
+<hr>
+<br/>
+
 <h1>Now Sem 2 Start☕</h1>
 
+
+<h3>Linux Assignment 💻</h3>
+
+- [Download Linux Assignment](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1734236387/Linux-LANP/mwns5aakyjjahb6trqpe.zip)
+
+
+<h3>Linux Material 📚</h3>
+
+- [Download Linux Material](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1734236511/Linux-LANP/cfnhy13aulvqdhisfxpr.zip)
