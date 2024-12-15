@@ -50,7 +50,8 @@
 
 <h3>Linux Assignment 💻</h3>
 
-- [Download Linux Assignment](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1734236387/Linux-LANP/mwns5aakyjjahb6trqpe.zip)
+- [Download Linux Assignment](https://res.cloudinary.com/dpf5bkafv/raw/upload/v1734236387/Linux-LANP/mwns5aakyjjahb6trqpe.zip?dl=1)
+
 
 
 <h3>Linux Material 📚</h3>
